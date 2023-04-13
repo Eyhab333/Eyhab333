@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahab
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning gsap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
