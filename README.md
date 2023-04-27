@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <div align="center">
-    <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="100"/>
-  </div>  
+  
   <img src="https://media.giphy.com/media/AKjT5kDZMK4wsPXJPk/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ahab-fadl-72bbba255/">
@@ -47,6 +45,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next"  alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   
 </div>
