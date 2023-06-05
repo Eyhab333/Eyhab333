@@ -17,9 +17,7 @@
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/iG4ky2zidnxTJE9zgP/giphy.gif"/>
-  </div>
+  
 </div>
 
 
@@ -65,3 +63,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!-- BLOG-POST-LIST:END -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+
+<div align="center">
+    <img src="https://media.giphy.com/media/iG4ky2zidnxTJE9zgP/giphy.gif"/>
+</div>
