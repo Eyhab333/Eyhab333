@@ -5,9 +5,9 @@
     <a href="https://www.linkedin.com/in/ahab-fadl-72bbba255/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+<!--     <a href="">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    </a> -->
     <a href="https://twitter.com/Ihab409">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -23,7 +23,6 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Saudi arabia.
-- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -58,11 +57,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react) -->
 
 <div align="center">
     <img src="https://media.giphy.com/media/iG4ky2zidnxTJE9zgP/giphy.gif"/>
