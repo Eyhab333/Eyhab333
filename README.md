@@ -22,9 +22,7 @@
 
 
 ### :man_technologist: About Me :
-I am a math teacher who enjoys frontend code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and working on making a career shift.
-
-- :seedling: Exploring Technical Content Writing and new technologies.
+As a math teacher who enjoys frontend code, I am excited about the opportunity to make a career shift into a more in-demand field. With my skills in frontend code, I am confident that I can make a significant impact in the field of education. By developing my skills in frontend code, I can create interactive and engaging learning experiences that help students understand and apply mathematical concepts in a fun and interactive way. Additionally, I can leverage my experience in frontend code to build web applications that can help teachers and students collaborate and share resources, making the learning process more efficient and effective. Overall, my passion for frontend code and my desire to make a career shift into a more in-demand field will help me achieve my goals and make a significant impact in the world of education.
 
 - 👨‍👩‍👦 I hang out with my family in my free time.
 
