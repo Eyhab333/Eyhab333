@@ -53,7 +53,7 @@ As a math teacher who enjoys frontend code, I am excited about the opportunity t
 
 ---
 
-<!-- ### :writing_hand: Blog Posts : -->
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [How to use an icon library to create an animated battery icon](https://dev.to/eyhab333/how-to-use-an-icon-library-to-create-an-animated-battery-icon-3j7f)
 - [How to make your profile on github looks good](https://dev.to/eyhab333/how-to-make-your-profile-on-github-looks-good-2kca)
