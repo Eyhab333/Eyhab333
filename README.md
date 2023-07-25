@@ -22,7 +22,12 @@
 
 
 ### :man_technologist: About Me :
-As a math teacher who enjoys frontend code, I am excited about the opportunity to make a career shift into a more in-demand field. With my skills in frontend code, I am confident that I can make a significant impact in the field of education. By developing my skills in frontend code, I can create interactive and engaging learning experiences that help students understand and apply mathematical concepts in a fun and interactive way. Additionally, I can leverage my experience in frontend code to build web applications that can help teachers and students collaborate and share resources, making the learning process more efficient and effective. Overall, my passion for frontend code and my desire to make a career shift into a more in-demand field will help me achieve my goals and make a significant impact in the world of education.
+I am a self-taught frontend developer, and I am eager to take on the
+            challenge of transitioning into a career in the tech industry. I
+            believe that this field offers a unique set of challenges and
+            opportunities, and I am excited to see what the future holds for me.
+            Follow me to learn more about the results of my efforts and how I am
+            contributing to the industry.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ahab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahab-fadl-72bbba255/)
 
