@@ -22,12 +22,7 @@
 
 
 ### :man_technologist: About Me :
-I am a self-taught frontend developer, and I am eager to take on the
-            challenge of transitioning into a career in the tech industry. I
-            believe that this field offers a unique set of challenges and
-            opportunities, and I am excited to see what the future holds for me.
-            Follow me to learn more about the results of my efforts and how I am
-            contributing to the industry.
+As a self-taught programmer, I am eager to embark on a career transition into the tech industry. I believe that this field offers unique challenges and opportunities, and I am excited to witness the future of my work. I am committed to sharing my experiences and insights as I progress in my career, and I am excited to be a part of this exciting field.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ahab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahab-fadl-72bbba255/)
 
