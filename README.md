@@ -19,8 +19,6 @@
   </h1>
   
 </div>
-
-
 ### :man_technologist: About Me :
 As a self-taught programmer, I am eager to embark on a career transition into the tech industry. I believe that this field offers unique challenges and opportunities, and I am excited to witness the future of my work. I am committed to sharing my experiences and insights as I progress in my career, and I am excited to be a part of this exciting field.
 
